@@ -17,7 +17,7 @@ import in.hcp.venu.service.SpeclizationService;
 import in.hcp.venu.view.SpecilizationExcelView;
 
 @Controller
-@RequestMapping("/spec")
+@RequestMapping("/special")
 public class SpecilazationController {
 	
 	

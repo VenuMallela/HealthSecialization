@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import lombok.Data;
 @Entity
 @Data
-@Table(name="specialization")
+@Table(name="spec")
 //@Setter
 //@Getter	
 public class Specilazation {
